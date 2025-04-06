@@ -1,7 +1,7 @@
 # 🎬 MediaCore
 
 ## 📰 Overview  
-**MediaCore** is a C++ application that manages a catalog of media — Books, Movies, and TV Shows — by reading structured data from CSV files. It uses object-oriented principles like inheritance and polymorphism to dynamically handle various media types and display them in customizable formats.
+**MediaCore** is a C++ terminal-based application that manages a catalog of media — Books, Movies, and TV Shows — by reading structured data from CSV files. It uses object-oriented principles like inheritance and polymorphism to dynamically handle various media types and display them in customizable formats via a command-line interface (CLI).
 
 ## 🎯 Objective  
 To design a flexible, modular system that:
