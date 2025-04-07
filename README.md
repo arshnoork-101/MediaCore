@@ -45,13 +45,6 @@ To design a flexible, modular system that:
 │   ├── tester_1.cpp
 ├── README.md
 ```
-## 🔧 Technical Highlights
-
-- Inheritance & Polymorphism  
-- Smart pointers (`std::unique_ptr`)  
-- Move semantics and exception safety  
-- Clean separation of logic and presentation  
-- Config-driven formatting for scalable UI output
 
 ## ✅ Conclusion  
 **MediaCore** exemplifies how C++ can be used to elegantly handle complex, real-world data through OOP and modern language features. It's scalable, extensible, and demonstrates best practices in code organization and dynamic memory handling.
